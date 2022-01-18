@@ -1,6 +1,7 @@
 package com.devsuperior.dsmovie.entities;
 
 import javax.persistence.*;
+import java.util.Optional;
 
 @Entity
 @Table(name = "tb_score")
